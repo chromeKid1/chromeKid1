@@ -1,0 +1,10 @@
+body {
+    background-image: url(./Images/13953062232_d36e060384_o.jpg);
+    background-size: cover;
+    height: 700px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
