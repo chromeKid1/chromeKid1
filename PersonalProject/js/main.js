@@ -67,6 +67,7 @@ $(document).ready(function(){
 
 
 	// Selector de tema
+
 	var theme = $("#theme");
 
 	$("#to-green").click(function(){
@@ -83,12 +84,13 @@ $(document).ready(function(){
 
 	
 	// Scroll arriba de la web
+
 	$('.subir').click(function(e){
 		e.preventDefault();
 
 		$('html, body').animate({
 			scrollTop: 0
-		}, 500);
+		}, 2000);
 
 		return false;
 	});

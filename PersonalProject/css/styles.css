@@ -24,7 +24,7 @@
 	line-height: 75px;
 	color: white;
 	text-align: center;
-	width: 385px;
+	width: 610px;
 	height: 80px;
 	margin-bottom: 20px;
 	float: left;
@@ -148,6 +148,13 @@ form input[type="submit"]{
 	color: #333;
 	cursor: pointer;
 }
+#boton {
+	background: #eee;
+	padding: 10px;
+	border: 1px solid #ccc;
+	color: #333;
+	cursor: pointer;
+}
 
 footer {
 	font-family: Helvetica, Arial;
@@ -188,15 +195,15 @@ footer {
 }
 
 #to-green{
-	background: #235E3D;
+	background: url(../img/hojas.jpg);
 }
 
 #to-red{
-	background: #CA3413;
+	background: url(../img/rojo.jpg);
 }
 
 #to-blue{
-	background: #1F87C4;
+	background: url(../img/cielo.jpg);
 }
 
 
